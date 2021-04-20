@@ -28,6 +28,7 @@
     "@turf/helpers": "^6.1.4",
     "@turf/length": "^6.0.2",
     "@turf/point-to-line-distance": "^6.0.0",
-    "geojson-path-finder": "^1.5.2"
+    "custom-node-dep": "https://github.com/oneport365-dev/geojson-path-finder.git",
+    "geojson-path-finder": "git+https://github.com/oneport365-dev/geojson-path-finder.git"
   }
 }
